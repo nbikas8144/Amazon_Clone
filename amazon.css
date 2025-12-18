@@ -43,6 +43,8 @@ margin-left: 5px;
     display: flex;
     align-items: center;
 }
+/*Nav-search*/
+
 .nav-search{
     display: flex;
     justify-content: space-evenly;
@@ -298,3 +300,4 @@ justify-content: space-evenly;
     font-size: 0.8rem;
     padding-top: 7px;
  }
+ 
